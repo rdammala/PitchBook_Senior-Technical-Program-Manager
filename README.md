@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Senior Technical Program Manager opportunities.
 
-**Live:** https://rdammala.github.io/PitchBook_Senior-Technical-Program-Manager/
+**Live:** https://rdammala-org.github.io/PitchBook_Senior-Technical-Program-Manager/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
